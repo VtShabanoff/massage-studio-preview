@@ -1,0 +1,1 @@
+!function(){"use strict";console.log("✅ Сайт загружен:",window.SITE_DATA.studioName);const t=document.getElementById("date");if(t){const e=(new Date).toISOString().split("T")[0];t.setAttribute("min",e)}}();

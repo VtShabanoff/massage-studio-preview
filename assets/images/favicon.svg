@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Кремовый скруглённый фон -->
+  <rect width="64" height="64" rx="14" fill="#F7F1E8"/>
+  <!-- Шалфейный лист -->
+  <path d="M32 10 C46 20 46 44 32 54 C18 44 18 20 32 10 Z" fill="#7C9082"/>
+  <!-- Прожилка -->
+  <path d="M32 18 L32 46" stroke="#F7F1E8" stroke-width="3" stroke-linecap="round"/>
+</svg>
